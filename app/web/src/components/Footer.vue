@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        장난하냐 Team
+        I dunno Team
       </div>
       <div class="col-lg-6">
       </div>
